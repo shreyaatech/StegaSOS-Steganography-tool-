@@ -1,0 +1,9 @@
+{
+  "keys": [
+    { "key": "JUDGES-KEY", "expires": "2025-09-01T23:59:59", "role": "admin" },
+    { "key": "TEAM-ALPHA", "expires": "2025-08-31T23:59:59", "role": "user" },
+    { "key": "DEMO-123", "expires": "2025-09-15T12:00:00", "role": "demo" },
+    { "key": "SHREYA-ACCESS", "expires": "2025-12-31T23:59:59", "role": "admin" },
+    { "key": "PRARAMBHA-2025", "expires": "2025-09-01T18:00:00", "role": "user" }
+  ]
+}

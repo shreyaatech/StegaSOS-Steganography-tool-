@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+pillow>=10.0.0
+numpy>=1.24.0
+cryptography>=41.0.0
+flask>=2.3.0
+requests>=2.31.0
+geocoder>=1.38.1
+streamlit-gps-location>=0.1.5
